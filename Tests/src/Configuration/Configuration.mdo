@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6ae70363-8eb5-4586-97a0-0a44dba855fc">
+  <name>Tests</name>
+  <synonym>
+    <key>ru</key>
+    <value>Tests</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <commandInterface>Extended</commandInterface>
+    <mainSectionCommandInterface>Extended</mainSectionCommandInterface>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+    <defaultStyle>Extended</defaultStyle>
+    <defaultRoles>Extended</defaultRoles>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="8ebc6129-f400-4273-b521-a8b6bdf3f5ee"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="2883d6c9-aed7-4c64-8ab0-70a0608ac726"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="3c824cab-adcc-41d3-9910-536714af5ae4"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="e37cefdc-8ebe-4f3a-83cb-7902aa4d51ef"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="99a5f5e6-3c7c-48fd-b67a-0d818fa334ee"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="7be410ce-6819-47aa-b281-a9ac2e6cf6d2"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="5b94bc9e-678d-495e-a383-c0adb3d1b0dd"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>Тест_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.25</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <compatibilityMode>8.3.25</compatibilityMode>
+  <commonModules>CommonModule.Тест_Документ</commonModules>
+  <commonModules>CommonModule.Тест_Классы</commonModules>
+  <commonModules>CommonModule.Тест_Накладная</commonModules>
+  <commonModules>CommonModule.Тест_Наследование</commonModules>
+  <commonModules>CommonModule.Тест_Рефлексия</commonModules>
+  <commonModules>CommonModule.Тест_Сотрудник</commonModules>
+  <commonModules>CommonModule.Тест_ТестовыйКласс</commonModules>
+  <dataProcessors>DataProcessor.Тест_Обработка</dataProcessors>
+</mdclass:Configuration>

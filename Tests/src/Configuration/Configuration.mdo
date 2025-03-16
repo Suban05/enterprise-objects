@@ -35,6 +35,7 @@
   <commonModules>CommonModule.Тест_Классы</commonModules>
   <commonModules>CommonModule.Тест_Накладная</commonModules>
   <commonModules>CommonModule.Тест_Наследование</commonModules>
+  <commonModules>CommonModule.Тест_ПустойКласс</commonModules>
   <commonModules>CommonModule.Тест_Рефлексия</commonModules>
   <commonModules>CommonModule.Тест_Сотрудник</commonModules>
   <commonModules>CommonModule.Тест_ТестовыйКласс</commonModules>

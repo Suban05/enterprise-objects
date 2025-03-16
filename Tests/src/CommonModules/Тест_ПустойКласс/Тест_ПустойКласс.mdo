@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="edb6a708-9aba-4058-9b91-9d6d3bf7f132">
+  <name>Тест_ПустойКласс</name>
+  <synonym>
+    <key>ru</key>
+    <value>Неправильный класс</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
